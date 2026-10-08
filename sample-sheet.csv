@@ -1,0 +1,3 @@
+Name,Drive folder (URL or ID),To,CC,Subject (optional),Repeat (once/daily/weekly/monthly/off),Include sub-folders (yes/no),Last sent,Status
+Client A - Invoices,https://drive.google.com/drive/folders/YOUR_FOLDER_ID,accounts@example.com,,Monthly invoices,monthly,no,,
+Client B - Contracts,https://drive.google.com/drive/folders/YOUR_OTHER_FOLDER_ID,legal@example.com,manager@example.com,,weekly,yes,,
